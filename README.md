@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FrankJames15
-- 👀 I’m interested in ... Web Depeopment
-- 🌱 I’m currently learning ... Web Depelopment
+- 👋 Hi, I’m Frank James
+- 👀 I’m interested in Web Depeopment
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... frankbarbacina@gmail.com
 
